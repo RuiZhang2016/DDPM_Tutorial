@@ -124,7 +124,8 @@ After training for ~1000 epochs on CPU (a few minutes), the model generates poin
 - Ho, J., Jain, A., & Abbeel, P. (2020). [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239). NeurIPS 2020.
 - Sohl-Dickstein, J., et al. (2015). [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585). ICML 2015.
 - Weng, L. (2021). [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) Lil'Log.
-- 刘一懂. (2025, April 9). 【手撕Diffusion-01】DDPM 原理精讲：物理直觉 [Web log post]. 小红书. https://www.xiaohongshu.com/explore/67f62bdc000000001d0079cb
+- 刘一懂. (2025, April 9). 【手撕Diffusion-01】DDPM 原理精讲：物理直觉 [Web log post]. 小红书.
+
 ## License
 
 MIT
