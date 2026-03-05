@@ -41,6 +41,8 @@ ddpm/
 
 ## Quick Start
 
+**Requirements:** Python 3.12
+
 ### 1. Install dependencies
 
 ```bash
